@@ -14,6 +14,6 @@
   </description>
 
   <!-- Define app icon. -->
-  <icon src="bounce-icon.PNG" />
+  <icon src="bounce-icon.png" />
 
 </widget>
